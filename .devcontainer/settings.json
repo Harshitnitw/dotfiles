@@ -1,0 +1,7 @@
+// .devcontainer/settings.json
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "activityBar.background": "#000000"
+    }
+}
